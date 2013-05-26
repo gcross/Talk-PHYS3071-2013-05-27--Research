@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="title.svg">
+   sodipodi:docname="title_slides.svg">
   <metadata
      id="metadata26767">
     <rdf:RDF>
@@ -172,14 +172,18 @@
     <text
        sodipodi:linespacing="125%"
        id="text4347"
-       y="321.88751"
+       y="281.88751"
        x="511.69626"
        style="font-size:69.11999512px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
        xml:space="preserve"><tspan
-         y="321.88751"
-         x="511.69626"
+         y="281.88751"
+         x="511.69629"
          id="tspan4349"
-         sodipodi:role="line">Root finding</tspan></text>
+         sodipodi:role="line">Efficient Representations</tspan><tspan
+         y="368.28751"
+         x="511.69629"
+         sodipodi:role="line"
+         id="tspan3007">of Quantum States</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5182"
@@ -190,7 +194,7 @@
          id="tspan5202"
          y="594.49908"
          x="511.88281"
-         sodipodi:role="line">PHYS3071 - Monday, 29 April</tspan><tspan
+         sodipodi:role="line">PHYS3071 - Monday, 27 May</tspan><tspan
          id="tspan3018"
          y="644.49908"
          x="511.88281"
