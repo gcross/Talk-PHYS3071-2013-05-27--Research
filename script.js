@@ -214,7 +214,6 @@ script = function(){ return [ // {{{
     hireAndFadeIn(0.5,"e_p_2_b"),
     "",
     fadeOutAndFire(0.5,"e_p_1_b","e_p_2_b"),
-    "",
     hireAndFadeIn(0.5,"e_p_3_b"),
     "",
     fadeOutAndFire(0.5,
